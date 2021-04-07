@@ -1,3 +1,3 @@
 # Hello-World-C
 I learn C.
-I it easy.
+It is easy.
